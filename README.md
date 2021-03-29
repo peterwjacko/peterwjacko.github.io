@@ -1,2 +1,2 @@
 # peterwjacko.github.io
-Personal website
+[Personal website](peterwjacko.github.io)
