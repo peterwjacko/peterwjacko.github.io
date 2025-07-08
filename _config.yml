@@ -7,7 +7,7 @@ lightavatar: #/assets/images/light_bauhaus_logo.png
 darkavatar: #/assets/images/dark_bauhaus_logo.png
 
 tagline: Personal website and blog
-description: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
+description: Website and blog for the Peter W. Jackson.
 url:
 baseurl: ""
 author: peter-w-jackson
